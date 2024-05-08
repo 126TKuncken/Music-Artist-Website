@@ -1,5 +1,5 @@
 body{
-    background-color: #f8f9fa;
+    background-color: black;
 }
 
 .navbar {
@@ -7,7 +7,7 @@ body{
 }
 
 .jumbotron{
-    background: url('../img/s-l400.jpg');
+    background: url('../img/Drake-e1693935526783.png');
     height: 600px;
     background-size: cover;
     color: white;
@@ -15,4 +15,16 @@ body{
     align-items: center;
     padding: 0;
     margin-bottom: 2em;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+h4{
+    color: aliceblue;
 }
